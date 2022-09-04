@@ -1,13 +1,13 @@
 # Priyadarshani17/Hotel-Booking-analysis
-1.Problem Statement :
-
+Problem Statement :
 We have been provided with hotel booking data for three years. We have to analyze the hotel booking behavior of customers as well as discover important factors that govern the bookings. We will analyze some important aspects of hotel bookings which will help us identify major loopholes and give us insights which will be helpful to run a profitable hotel business.
 
-2. Introduction : 
+Introduction : 
 This is our capstone project on exploratory data analysis on hotel booking in which we solved different questions like the optimal length of stay in order to get the best daily rate? What if you wanted to predict whether or not a hotel was likely to receive a disproportionately high number of special requests? Etc. This hotel booking dataset can help you explore those questions!
 This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, meal perferance, among other things. 
 The main objective of this project is to explore and analyze data to discover important factors that governs the bookings and give insights to hotel management, which can perform various campaigns to boots the business and performance.
-. Data Description :
+
+Data Description :
 ●	hotel: Name of hotel ( City or Resort)
 ●	is_canceled: Whether the booking is canceled or not (0 for no canceled and 1 for canceled)
 ●	lead_time: time (in days) between booking transaction and actual arrival.
@@ -44,10 +44,14 @@ Steps Followed In Analysis
 Data collection : We collected  the hotel booking data on which EDA is to be done. We then understood the data, its columns/features and its content.
 
 Data cleaning : We cleaned the data by dropping or replacing null values, deleting unwanted columns, checking data type and conversion to a data type of required column and we performed many other operations to get the required dataset
+
 EDA will be divided into following 3 analysis:
+
 1)Univariate Analysis: Univariate analysis is the simplest of the three analysis where the data you are analyzing is only having one variable.
 2)Bivariate analysis: In Bivariate analysis we will compare two variables to study their relationships.
 3)Multivariate analysis: Multivariate analysis is similar to Bivariate analysis here we will compare more than two variables.
+
 Data visualization: We represented the insights through data visualization with the help of different types of graphs and charts.
- Conclusion: After careful analysis , we can conclude that the hotel industry can benefit a lot by studying the type of customers, their booking mode, the booking month and the seasons. The hotel industry market, their ADR and bookings are based on the type of customers, the month, types of meal, hotel type, their country of origin, Room types, booking medium and many others. Form this analysis 
+
+Conclusion: After careful analysis , we can conclude that the hotel industry can benefit a lot by studying the type of customers, their booking mode, the booking month and the seasons. The hotel industry market, their ADR and bookings are based on the type of customers, the month, types of meal, hotel type, their country of origin, Room types, booking medium and many others. Form this analysis 
 
